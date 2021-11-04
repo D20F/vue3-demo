@@ -1,4 +1,4 @@
-# vue3-demo
+# muy-project
 
 ## Project setup
 ```
